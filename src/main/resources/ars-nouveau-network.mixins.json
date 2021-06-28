@@ -1,0 +1,11 @@
+{
+    "minVersion": "0.8",
+    "refmap": "ars-nouveau-network.refmap.json",
+    "package": "rmc.mixins.ars_nouveau_network.inject",
+    "mixins": [
+        "PacketSetBookModeMixin",
+        "PacketSetRitualMixin",
+        "PacketUpdateSpellbookMixin",
+        "PacketUpdateSpellColorsMixin"
+    ]
+}
